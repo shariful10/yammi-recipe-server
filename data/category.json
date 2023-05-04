@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"img": "https://i.ibb.co/YRkwqW2/r1.jpg",
+		"name": "Appetizers"
+	},
+	{
+		"id": 2,
+		"img": "https://i.ibb.co/nMnsQJ0/r2.jpg",
+		"name": "Beef"
+	},
+	{
+		"id": 3,
+		"img": "https://i.ibb.co/JmXKQ4p/r3.jpg",
+		"name": "Chicken"
+	},
+	{
+		"id": 4,
+		"img": "https://i.ibb.co/TMK9R0w/r4.jpg",
+		"name": "Vegetarian"
+	}
+]
