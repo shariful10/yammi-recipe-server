@@ -8,7 +8,8 @@
         "expr": "9 years",
         "rec_1": "https://i.ibb.co/1LwSGzZ/rec-1-1.webp",
         "rec_2": "https://i.ibb.co/jHBnksK/rec-1-2.webp",
-        "rec_3": "https://i.ibb.co/wCSM24w/rec-1-3.webp"
+        "rec_3": "https://i.ibb.co/wCSM24w/rec-1-3.webp",
+        "bio": "Chef Daniel Vittory is a culinary artist with over 15 years of experience in the industry. Born and raised in New York, he discovered his love for cooking at a young age, learning to cook from his mother and grandmother. After graduating from culinary school, he worked in some of the city's most renowned restaurants, including Per Se and Le Bernardin."
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "expr": "5 years",
         "rec_1": "https://i.ibb.co/RvkW8j2/rec-2-1.webp",
         "rec_2": "https://i.ibb.co/wYVgBm9/rec-2-2.jpg",
-        "rec_3": "https://i.ibb.co/MCD27P4/rec-2-3.jpg"
+        "rec_3": "https://i.ibb.co/MCD27P4/rec-2-3.jpg",
+        "bio": "Chef Daniel Vittory is a culinary artist with over 15 years of experience in the industry. Born and raised in New York, he discovered his love for cooking at a young age, learning to cook from his mother and grandmother. After graduating from culinary school, he worked in some of the city's most renowned restaurants, including Per Se and Le Bernardin."
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
         "expr": "8 years",
         "rec_1": "https://i.ibb.co/VwkN5fb/rec-3-1.jpg",
         "rec_2": "https://i.ibb.co/vkvbxDG/rec-3-2.jpg",
-        "rec_3": "https://i.ibb.co/wJXtd90/rec-3-3.jpg"
+        "rec_3": "https://i.ibb.co/wJXtd90/rec-3-3.jpg",
+        "bio": "Chef John Bold is a culinary artist with over 15 years of experience in the industry. Born and raised in New York, he discovered his love for cooking at a young age, learning to cook from his mother and grandmother. After graduating from culinary school, he worked in some of the city's most renowned restaurants, including Per Se and Le Bernardin."
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
         "expr": "6 years",
         "rec_1": "https://i.ibb.co/1LwSGzZ/rec-1-1.webp",
         "rec_2": "https://i.ibb.co/RvkW8j2/rec-2-1.webp",
-        "rec_3": "https://i.ibb.co/VwkN5fb/rec-3-1.jpg"
+        "rec_3": "https://i.ibb.co/VwkN5fb/rec-3-1.jpg",
+        "bio": "Chef Micle Farade is a culinary artist with over 15 years of experience in the industry. Born and raised in New York, he discovered his love for cooking at a young age, learning to cook from his mother and grandmother. After graduating from culinary school, he worked in some of the city's most renowned restaurants, including Per Se and Le Bernardin."
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
         "expr": "9 years",
         "rec_1": "https://i.ibb.co/jHBnksK/rec-1-2.webp",
         "rec_2": "https://i.ibb.co/wYVgBm9/rec-2-2.jpg",
-        "rec_3": "https://i.ibb.co/vkvbxDG/rec-3-2.jpg"
+        "rec_3": "https://i.ibb.co/vkvbxDG/rec-3-2.jpg",
+        "bio": "Chef Simon Heatmayar is a culinary artist with over 15 years of experience in the industry. Born and raised in New York, he discovered his love for cooking at a young age, learning to cook from his mother and grandmother. After graduating from culinary school, he worked in some of the city's most renowned restaurants, including Per Se and Le Bernardin."
     },
     {
         "id": 6,
@@ -63,6 +68,7 @@
         "expr": "7 years",
         "rec_1": "https://i.ibb.co/wCSM24w/rec-1-3.webp",
         "rec_2": "https://i.ibb.co/MCD27P4/rec-2-3.jpg",
-        "rec_3": "https://i.ibb.co/VwkN5fb/rec-3-1.jpg"
+        "rec_3": "https://i.ibb.co/VwkN5fb/rec-3-1.jpg",
+        "bio": "Chef Joshef Macro is a culinary artist with over 15 years of experience in the industry. Born and raised in New York, he discovered his love for cooking at a young age, learning to cook from his mother and grandmother. After graduating from culinary school, he worked in some of the city's most renowned restaurants, including Per Se and Le Bernardin."
     }
 ]
